@@ -1,0 +1,44 @@
+# ─── Raster data (archivos grandes, no subir al repo) ───────────────────────
+data/
+*.tif
+*.tiff
+*.img
+*.vrt
+
+# ─── Outputs generados (se regeneran corriendo el notebook) ─────────────────
+output/
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─── Entornos virtuales ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── IDEs y editores ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ─── Sistema operativo ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Variables de entorno / claves ───────────────────────────────────────────
+.env
+*.env
