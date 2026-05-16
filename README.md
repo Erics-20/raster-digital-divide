@@ -12,6 +12,12 @@ The analysis combines two independent raster datasets at a common ~450 m grid to
 
 ---
 
+## Dashboard Preview
+
+![Digital Divide Dashboard — Cusco Region](output/dashboard_brecha_digital.png)
+
+---
+
 ## Repository Structure
 
 ```
