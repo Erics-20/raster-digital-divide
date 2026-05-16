@@ -6,7 +6,8 @@ data/
 *.vrt
 
 # ─── Outputs generados (se regeneran corriendo el notebook) ─────────────────
-output/
+output/*
+!output/dashboard_brecha_digital.png
 
 # ─── Python ─────────────────────────────────────────────────────────────────
 __pycache__/
